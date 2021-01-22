@@ -1,0 +1,20 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "4PERTURE/device_xiaomi_sdm6250-common",
+    "target_path": "device/xiaomi/sdm6250-common"
+    "branch": "ravioli"
+  },
+  {
+    "remote":      "github",
+    "repository":  "4PERTURE/vendor_xiaomi",
+    "target_path": "vendor/xiaomi"
+    "branch": "eleven"
+  },
+  {
+    "remote":      "github",
+    "repository":  "4PERTURE/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250"
+    "branch": "eleven"
+  }
+]
